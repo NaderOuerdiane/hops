@@ -1,16 +1,16 @@
-# hops
+# Hops
 
-A new Flutter project.
+### Overview
+Hops is an app to view , save and compare hops.
 
-## Getting Started
+### Technologies used
+- Flutter (Dart)
+- Provider Package
+- Json Fetching Locally
 
-This project is a starting point for a Flutter application.
+### Functionality
+- View each Hop Details.
+- Dynamic Comparaison between Hops.
+- Save and search hops to stay organized.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](https://imgur.com/q9hr37F.png)
